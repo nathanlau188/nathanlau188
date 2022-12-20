@@ -1,6 +1,6 @@
 
 - 👋 Hi, I’m Nathan Lau  , aka Cheuk Fung Lau
-- 👀 I’m interested in utilizing data to find meaningful insights to help 
+- 👀 I’m interested in utilizing data to find meaningful insights to help make quality business decisions
 - 🌱 I’m currently learning Data Analytics and Data Science 
 - 😎Things I enjoyed outside of work: basketball, soccer, gym workouts, hiking, reading and watch finance/real estate/self-development videos. 
 - 💞️ Currently, I am learning the fundamentals of data analytics (SQL, Python, R and Tableau)
